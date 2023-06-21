@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925432679099",
+    "project_id": "mobilprogramlama-9754a",
+    "storage_bucket": "mobilprogramlama-9754a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925432679099:android:3dbd82ce886f62d42a779e",
+        "android_client_info": {
+          "package_name": "com.mobilprog.mobilprog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925432679099-tu6j8v0hg9i9r4j75faul7d8i16qen6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHn08bfDmBnGXDbdQSsnS-oFAlISDBtvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925432679099-tu6j8v0hg9i9r4j75faul7d8i16qen6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
